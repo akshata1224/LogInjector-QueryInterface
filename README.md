@@ -1,5 +1,5 @@
 # LogInjector-QueryInterface
-# Image 1
+## Image 1
 ![image](https://github.com/akshata1224/LogInjector-QueryInterface/assets/73269344/29e405a1-6edf-4bea-859c-cbc67be1f902)
 
 ## Image 2
